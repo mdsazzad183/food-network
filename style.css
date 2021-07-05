@@ -1,0 +1,27 @@
+span{
+    color: blueviolet;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+img{
+    height: 280px;
+    width: 250px;
+    padding-top: 1%;
+}
+.half-width{
+   padding-left: 2%;
+    width: 50%;
+}
+.flaxible-containar{
+    display: flex; 
+    margin-bottom: 150px;
+}
+.order{
+    background-image: linear-gradient(DarkMagenta,DarkOrchid);
+    border-radius: 100px;
+    padding: 5px 10px;
+    color: whitesmoke;
+    text-decoration: none;
+}

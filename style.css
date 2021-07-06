@@ -64,7 +64,9 @@ img{
 .end-line{
     text-align: center;
     color: gray;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.897);
+    padding-top: 1%;
+    padding-bottom: 2%;
 }
 #proverb{
     color: white;

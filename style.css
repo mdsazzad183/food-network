@@ -18,10 +18,42 @@ img{
     display: flex; 
     margin-bottom: 150px;
 }
-.order{
+.button{
     background-image: linear-gradient(DarkMagenta,DarkOrchid);
     border-radius: 100px;
     padding: 5px 10px;
     color: whitesmoke;
     text-decoration: none;
 }
+#beside{
+    margin-right: 30%;
+    
+}
+#image{
+    margin-left: 20%;
+}
+.middle-border{
+    border: 5px;
+    background-image: url(images/shapes/7.png);
+    padding: 5px;
+    background-position: right top;
+}
+.center{
+    text-align: center;
+    
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.box-border{
+    box-shadow: 10px 10px 40px gray;
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 5%;
+    border-radius: 20px;
+    
+}
+.img-redious{
+    border-radius: 20px;
+}
+    

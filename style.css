@@ -38,7 +38,7 @@ img{
     padding: 5px;
     background-position: right top;
 }
-.center{
+.introduction{
     text-align: center;
     
     margin-left: 30%;
@@ -46,14 +46,18 @@ img{
 }
 .box-border{
     box-shadow: 10px 10px 40px gray;
-    width: 30%;
+    width: 60%;
     margin-left: 2%;
     margin-right: 2%;
-    padding: 5%;
+    padding: 1%;
     border-radius: 20px;
     
 }
 .img-redious{
     border-radius: 20px;
 }
+.Recipe-title{
     
+    margin-left: 7%;
+    margin-right: 7%;
+} 

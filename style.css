@@ -61,3 +61,11 @@ img{
     margin-left: 7%;
     margin-right: 7%;
 } 
+.end-line{
+    text-align: center;
+    color: gray;
+    background-color: black;
+}
+#proverb{
+    color: white;
+}
